@@ -17,7 +17,7 @@ namespace Jory.Project.Web.Controllers
 
         public IActionResult About()
         {
-            ViewData["Message"] = "asdf.";
+            ViewData["Message"] = "aa.";
 
             return View();
         }
